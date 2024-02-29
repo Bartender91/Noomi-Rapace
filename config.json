@@ -1,0 +1,48 @@
+{
+    "language": "en",
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "maintenance": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "OWNER": "Denver Crain",
+    "MADE": "",
+    "version": "2.2.17",
+    "BOTNAME": "Ava",
+    "PREFIX": ">",
+    "ADMINBOT": [
+        "61551997800865"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "selfListen": false
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "help": {
+        "autoUnsend": "",
+        "delayUnsend": 20
+    },
+    "weather": {
+        "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+    },
+    "adminNoti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    }
+}
